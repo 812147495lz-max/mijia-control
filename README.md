@@ -1,11 +1,17 @@
 # Kinect v2 + 米家手势控制项目
 
-🙏 所有代码来自AI，让我们谢谢AI,一切献给AI王！ 👑                                
+🙏 所有代码来自AI，让我们谢谢AI,一切献给AI王！ 👑  
+
 All the code comes from AI. Let's thank AI. Everything is dedicated to the AI King. 
+
 Todo el código proviene de la IA. Demos gracias a la IA. Todo está dedicado al Rey de la IA. 
+
 すべてのコードはAIから来ています。AIに感謝しましょう。すべてをAI王に捧げます。 
+
 Tout le code provient de l'IA. Remercions l'IA. Tout est dédié au Roi de l'IA. 
+
 Весь код от ИИ. Давайте поблагодарим ИИ. Всё посвящено Королю ИИ. 
+
 모든 코드는 AI에서 왔습니다. AI에게 감사합시다. 모든 것을 AI 왕에게 바칩니다. 
 
 用 Kinect v2 实时骨骼追踪 + 手势识别，控制米家智能家居（窗帘/灯等）。完全本地运行，延迟低，隐私安全。
